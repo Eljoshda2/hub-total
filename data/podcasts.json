@@ -1,0 +1,962 @@
+[
+  {
+    "id": "pod-1",
+    "title": "Spotify Podcasts: Tecnología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre tecnología dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-2",
+    "title": "Spotify Podcasts: Noticias",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre noticias dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar noticias.",
+    "tags": [
+      "Noticias",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-3",
+    "title": "Spotify Podcasts: Comedia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre comedia dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar comedia.",
+    "tags": [
+      "Comedia",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-4",
+    "title": "Spotify Podcasts: Historia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre historia dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-5",
+    "title": "Spotify Podcasts: Negocios",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre negocios dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-6",
+    "title": "Spotify Podcasts: Salud",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre salud dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-7",
+    "title": "Spotify Podcasts: Psicología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre psicología dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-8",
+    "title": "Spotify Podcasts: Videojuegos",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre videojuegos dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar videojuegos.",
+    "tags": [
+      "Videojuegos",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-9",
+    "title": "Spotify Podcasts: Cine",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cine dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar cine.",
+    "tags": [
+      "Cine",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-10",
+    "title": "Spotify Podcasts: Cultura pop",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cultura pop dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar cultura pop.",
+    "tags": [
+      "Cultura pop",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-11",
+    "title": "Spotify Podcasts: Idiomas",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre idiomas dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-12",
+    "title": "Spotify Podcasts: Emprendimiento",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-13",
+    "title": "Spotify Podcasts: IA",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre ia dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-14",
+    "title": "Spotify Podcasts: Música",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre música dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-15",
+    "title": "Spotify Podcasts: Productividad",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre productividad dentro de Spotify Podcasts.",
+    "meta": "Fuente legal y pública. Ideal para explorar productividad.",
+    "tags": [
+      "Productividad",
+      "Spotify Podcasts",
+      "Audio",
+      "Streaming"
+    ],
+    "url": "https://open.spotify.com/genre/podcasts-web",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-16",
+    "title": "Apple Podcasts Browse: Tecnología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre tecnología dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-17",
+    "title": "Apple Podcasts Browse: Noticias",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre noticias dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar noticias.",
+    "tags": [
+      "Noticias",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-18",
+    "title": "Apple Podcasts Browse: Comedia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre comedia dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar comedia.",
+    "tags": [
+      "Comedia",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-19",
+    "title": "Apple Podcasts Browse: Historia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre historia dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-20",
+    "title": "Apple Podcasts Browse: Negocios",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre negocios dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-21",
+    "title": "Apple Podcasts Browse: Salud",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre salud dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-22",
+    "title": "Apple Podcasts Browse: Psicología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre psicología dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-23",
+    "title": "Apple Podcasts Browse: Videojuegos",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre videojuegos dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar videojuegos.",
+    "tags": [
+      "Videojuegos",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-24",
+    "title": "Apple Podcasts Browse: Cine",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cine dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar cine.",
+    "tags": [
+      "Cine",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-25",
+    "title": "Apple Podcasts Browse: Cultura pop",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cultura pop dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar cultura pop.",
+    "tags": [
+      "Cultura pop",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-26",
+    "title": "Apple Podcasts Browse: Idiomas",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre idiomas dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-27",
+    "title": "Apple Podcasts Browse: Emprendimiento",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-28",
+    "title": "Apple Podcasts Browse: IA",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre ia dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-29",
+    "title": "Apple Podcasts Browse: Música",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre música dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-30",
+    "title": "Apple Podcasts Browse: Productividad",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre productividad dentro de Apple Podcasts Browse.",
+    "meta": "Fuente legal y pública. Ideal para explorar productividad.",
+    "tags": [
+      "Productividad",
+      "Apple Podcasts Browse",
+      "Audio",
+      "Catálogo"
+    ],
+    "url": "https://podcasts.apple.com/us/genre/podcasts/id26",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-31",
+    "title": "Pocket Casts Discover: Tecnología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre tecnología dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-32",
+    "title": "Pocket Casts Discover: Noticias",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre noticias dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar noticias.",
+    "tags": [
+      "Noticias",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-33",
+    "title": "Pocket Casts Discover: Comedia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre comedia dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar comedia.",
+    "tags": [
+      "Comedia",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-34",
+    "title": "Pocket Casts Discover: Historia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre historia dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-35",
+    "title": "Pocket Casts Discover: Negocios",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre negocios dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-36",
+    "title": "Pocket Casts Discover: Salud",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre salud dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-37",
+    "title": "Pocket Casts Discover: Psicología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre psicología dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-38",
+    "title": "Pocket Casts Discover: Videojuegos",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre videojuegos dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar videojuegos.",
+    "tags": [
+      "Videojuegos",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-39",
+    "title": "Pocket Casts Discover: Cine",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cine dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar cine.",
+    "tags": [
+      "Cine",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-40",
+    "title": "Pocket Casts Discover: Cultura pop",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cultura pop dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar cultura pop.",
+    "tags": [
+      "Cultura pop",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-41",
+    "title": "Pocket Casts Discover: Idiomas",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre idiomas dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-42",
+    "title": "Pocket Casts Discover: Emprendimiento",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-43",
+    "title": "Pocket Casts Discover: IA",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre ia dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-44",
+    "title": "Pocket Casts Discover: Música",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre música dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-45",
+    "title": "Pocket Casts Discover: Productividad",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre productividad dentro de Pocket Casts Discover.",
+    "meta": "Fuente legal y pública. Ideal para explorar productividad.",
+    "tags": [
+      "Productividad",
+      "Pocket Casts Discover",
+      "Podcast",
+      "Descubrir"
+    ],
+    "url": "https://play.pocketcasts.com/discover",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-46",
+    "title": "Internet Archive Audio: Tecnología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre tecnología dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-47",
+    "title": "Internet Archive Audio: Noticias",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre noticias dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar noticias.",
+    "tags": [
+      "Noticias",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-48",
+    "title": "Internet Archive Audio: Comedia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre comedia dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar comedia.",
+    "tags": [
+      "Comedia",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-49",
+    "title": "Internet Archive Audio: Historia",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre historia dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-50",
+    "title": "Internet Archive Audio: Negocios",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre negocios dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-51",
+    "title": "Internet Archive Audio: Salud",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre salud dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-52",
+    "title": "Internet Archive Audio: Psicología",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre psicología dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-53",
+    "title": "Internet Archive Audio: Videojuegos",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre videojuegos dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar videojuegos.",
+    "tags": [
+      "Videojuegos",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-54",
+    "title": "Internet Archive Audio: Cine",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cine dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar cine.",
+    "tags": [
+      "Cine",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-55",
+    "title": "Internet Archive Audio: Cultura pop",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre cultura pop dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar cultura pop.",
+    "tags": [
+      "Cultura pop",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-56",
+    "title": "Internet Archive Audio: Idiomas",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre idiomas dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-57",
+    "title": "Internet Archive Audio: Emprendimiento",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-58",
+    "title": "Internet Archive Audio: IA",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre ia dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-59",
+    "title": "Internet Archive Audio: Música",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre música dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "pod-60",
+    "title": "Internet Archive Audio: Productividad",
+    "type": "Podcasts",
+    "category": "podcasts",
+    "description": "Recurso recomendado sobre productividad dentro de Internet Archive Audio.",
+    "meta": "Fuente legal y pública. Ideal para explorar productividad.",
+    "tags": [
+      "Productividad",
+      "Internet Archive Audio",
+      "Archivo",
+      "Audio"
+    ],
+    "url": "https://archive.org/details/audio",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1200&q=80"
+  }
+]

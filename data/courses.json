@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "course-1",
+    "title": "Coursera: Programación",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre programación dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-2",
+    "title": "Coursera: Diseño UX",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre diseño ux dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño ux.",
+    "tags": [
+      "Diseño UX",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-3",
+    "title": "Coursera: Marketing",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre marketing dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar marketing.",
+    "tags": [
+      "Marketing",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-4",
+    "title": "Coursera: Negocios",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre negocios dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-5",
+    "title": "Coursera: Matemáticas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre matemáticas dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-6",
+    "title": "Coursera: Física",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre física dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar física.",
+    "tags": [
+      "Física",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-7",
+    "title": "Coursera: Química",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre química dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar química.",
+    "tags": [
+      "Química",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-8",
+    "title": "Coursera: Biología",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre biología dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar biología.",
+    "tags": [
+      "Biología",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-9",
+    "title": "Coursera: Historia",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre historia dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-10",
+    "title": "Coursera: Idiomas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre idiomas dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-11",
+    "title": "Coursera: Ciberseguridad",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ciberseguridad dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciberseguridad.",
+    "tags": [
+      "Ciberseguridad",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-12",
+    "title": "Coursera: Data Science",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre data science dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar data science.",
+    "tags": [
+      "Data Science",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-13",
+    "title": "Coursera: IA",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ia dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-14",
+    "title": "Coursera: Excel",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre excel dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar excel.",
+    "tags": [
+      "Excel",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-15",
+    "title": "Coursera: Finanzas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre finanzas dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar finanzas.",
+    "tags": [
+      "Finanzas",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-16",
+    "title": "Coursera: Escritura",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre escritura dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar escritura.",
+    "tags": [
+      "Escritura",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-17",
+    "title": "Coursera: Fotografía",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre fotografía dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografía.",
+    "tags": [
+      "Fotografía",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-18",
+    "title": "Coursera: Música",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre música dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-19",
+    "title": "Coursera: Desarrollo web",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre desarrollo web dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar desarrollo web.",
+    "tags": [
+      "Desarrollo web",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-20",
+    "title": "Coursera: Emprendimiento",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Coursera.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Coursera",
+      "MOOC",
+      "Universidad"
+    ],
+    "url": "https://www.coursera.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-21",
+    "title": "edX: Programación",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre programación dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-22",
+    "title": "edX: Diseño UX",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre diseño ux dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño ux.",
+    "tags": [
+      "Diseño UX",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-23",
+    "title": "edX: Marketing",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre marketing dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar marketing.",
+    "tags": [
+      "Marketing",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-24",
+    "title": "edX: Negocios",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre negocios dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-25",
+    "title": "edX: Matemáticas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre matemáticas dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-26",
+    "title": "edX: Física",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre física dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar física.",
+    "tags": [
+      "Física",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-27",
+    "title": "edX: Química",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre química dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar química.",
+    "tags": [
+      "Química",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-28",
+    "title": "edX: Biología",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre biología dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar biología.",
+    "tags": [
+      "Biología",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-29",
+    "title": "edX: Historia",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre historia dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-30",
+    "title": "edX: Idiomas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre idiomas dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-31",
+    "title": "edX: Ciberseguridad",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ciberseguridad dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciberseguridad.",
+    "tags": [
+      "Ciberseguridad",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-32",
+    "title": "edX: Data Science",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre data science dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar data science.",
+    "tags": [
+      "Data Science",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-33",
+    "title": "edX: IA",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ia dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-34",
+    "title": "edX: Excel",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre excel dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar excel.",
+    "tags": [
+      "Excel",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-35",
+    "title": "edX: Finanzas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre finanzas dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar finanzas.",
+    "tags": [
+      "Finanzas",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-36",
+    "title": "edX: Escritura",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre escritura dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar escritura.",
+    "tags": [
+      "Escritura",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-37",
+    "title": "edX: Fotografía",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre fotografía dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografía.",
+    "tags": [
+      "Fotografía",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-38",
+    "title": "edX: Música",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre música dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-39",
+    "title": "edX: Desarrollo web",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre desarrollo web dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar desarrollo web.",
+    "tags": [
+      "Desarrollo web",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-40",
+    "title": "edX: Emprendimiento",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre emprendimiento dentro de edX.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "edX",
+      "Cursos",
+      "Online"
+    ],
+    "url": "https://www.edx.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-41",
+    "title": "Khan Academy: Programación",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre programación dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-42",
+    "title": "Khan Academy: Diseño UX",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre diseño ux dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño ux.",
+    "tags": [
+      "Diseño UX",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-43",
+    "title": "Khan Academy: Marketing",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre marketing dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar marketing.",
+    "tags": [
+      "Marketing",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-44",
+    "title": "Khan Academy: Negocios",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre negocios dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-45",
+    "title": "Khan Academy: Matemáticas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre matemáticas dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-46",
+    "title": "Khan Academy: Física",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre física dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar física.",
+    "tags": [
+      "Física",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-47",
+    "title": "Khan Academy: Química",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre química dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar química.",
+    "tags": [
+      "Química",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-48",
+    "title": "Khan Academy: Biología",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre biología dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar biología.",
+    "tags": [
+      "Biología",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-49",
+    "title": "Khan Academy: Historia",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre historia dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-50",
+    "title": "Khan Academy: Idiomas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre idiomas dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-51",
+    "title": "Khan Academy: Ciberseguridad",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ciberseguridad dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciberseguridad.",
+    "tags": [
+      "Ciberseguridad",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-52",
+    "title": "Khan Academy: Data Science",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre data science dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar data science.",
+    "tags": [
+      "Data Science",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-53",
+    "title": "Khan Academy: IA",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ia dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-54",
+    "title": "Khan Academy: Excel",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre excel dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar excel.",
+    "tags": [
+      "Excel",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-55",
+    "title": "Khan Academy: Finanzas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre finanzas dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar finanzas.",
+    "tags": [
+      "Finanzas",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-56",
+    "title": "Khan Academy: Escritura",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre escritura dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar escritura.",
+    "tags": [
+      "Escritura",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-57",
+    "title": "Khan Academy: Fotografía",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre fotografía dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografía.",
+    "tags": [
+      "Fotografía",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-58",
+    "title": "Khan Academy: Música",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre música dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-59",
+    "title": "Khan Academy: Desarrollo web",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre desarrollo web dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar desarrollo web.",
+    "tags": [
+      "Desarrollo web",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-60",
+    "title": "Khan Academy: Emprendimiento",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre emprendimiento dentro de Khan Academy.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "Khan Academy",
+      "Gratis",
+      "Ejercicios"
+    ],
+    "url": "https://www.khanacademy.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-61",
+    "title": "MIT OpenCourseWare: Programación",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre programación dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-62",
+    "title": "MIT OpenCourseWare: Diseño UX",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre diseño ux dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño ux.",
+    "tags": [
+      "Diseño UX",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-63",
+    "title": "MIT OpenCourseWare: Marketing",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre marketing dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar marketing.",
+    "tags": [
+      "Marketing",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-64",
+    "title": "MIT OpenCourseWare: Negocios",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre negocios dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-65",
+    "title": "MIT OpenCourseWare: Matemáticas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre matemáticas dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-66",
+    "title": "MIT OpenCourseWare: Física",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre física dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar física.",
+    "tags": [
+      "Física",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-67",
+    "title": "MIT OpenCourseWare: Química",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre química dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar química.",
+    "tags": [
+      "Química",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-68",
+    "title": "MIT OpenCourseWare: Biología",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre biología dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar biología.",
+    "tags": [
+      "Biología",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-69",
+    "title": "MIT OpenCourseWare: Historia",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre historia dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-70",
+    "title": "MIT OpenCourseWare: Idiomas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre idiomas dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-71",
+    "title": "MIT OpenCourseWare: Ciberseguridad",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ciberseguridad dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciberseguridad.",
+    "tags": [
+      "Ciberseguridad",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-72",
+    "title": "MIT OpenCourseWare: Data Science",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre data science dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar data science.",
+    "tags": [
+      "Data Science",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-73",
+    "title": "MIT OpenCourseWare: IA",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ia dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-74",
+    "title": "MIT OpenCourseWare: Excel",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre excel dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar excel.",
+    "tags": [
+      "Excel",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-75",
+    "title": "MIT OpenCourseWare: Finanzas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre finanzas dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar finanzas.",
+    "tags": [
+      "Finanzas",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-76",
+    "title": "MIT OpenCourseWare: Escritura",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre escritura dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar escritura.",
+    "tags": [
+      "Escritura",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-77",
+    "title": "MIT OpenCourseWare: Fotografía",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre fotografía dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografía.",
+    "tags": [
+      "Fotografía",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-78",
+    "title": "MIT OpenCourseWare: Música",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre música dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-79",
+    "title": "MIT OpenCourseWare: Desarrollo web",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre desarrollo web dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar desarrollo web.",
+    "tags": [
+      "Desarrollo web",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-80",
+    "title": "MIT OpenCourseWare: Emprendimiento",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre emprendimiento dentro de MIT OpenCourseWare.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "MIT OpenCourseWare",
+      "MIT",
+      "Abierto"
+    ],
+    "url": "https://ocw.mit.edu/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-81",
+    "title": "freeCodeCamp: Programación",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre programación dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-82",
+    "title": "freeCodeCamp: Diseño UX",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre diseño ux dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño ux.",
+    "tags": [
+      "Diseño UX",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-83",
+    "title": "freeCodeCamp: Marketing",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre marketing dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar marketing.",
+    "tags": [
+      "Marketing",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-84",
+    "title": "freeCodeCamp: Negocios",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre negocios dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar negocios.",
+    "tags": [
+      "Negocios",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-85",
+    "title": "freeCodeCamp: Matemáticas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre matemáticas dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-86",
+    "title": "freeCodeCamp: Física",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre física dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar física.",
+    "tags": [
+      "Física",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-87",
+    "title": "freeCodeCamp: Química",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre química dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar química.",
+    "tags": [
+      "Química",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-88",
+    "title": "freeCodeCamp: Biología",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre biología dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar biología.",
+    "tags": [
+      "Biología",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-89",
+    "title": "freeCodeCamp: Historia",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre historia dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-90",
+    "title": "freeCodeCamp: Idiomas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre idiomas dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-91",
+    "title": "freeCodeCamp: Ciberseguridad",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ciberseguridad dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciberseguridad.",
+    "tags": [
+      "Ciberseguridad",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-92",
+    "title": "freeCodeCamp: Data Science",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre data science dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar data science.",
+    "tags": [
+      "Data Science",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-93",
+    "title": "freeCodeCamp: IA",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre ia dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar ia.",
+    "tags": [
+      "IA",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-94",
+    "title": "freeCodeCamp: Excel",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre excel dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar excel.",
+    "tags": [
+      "Excel",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-95",
+    "title": "freeCodeCamp: Finanzas",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre finanzas dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar finanzas.",
+    "tags": [
+      "Finanzas",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-96",
+    "title": "freeCodeCamp: Escritura",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre escritura dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar escritura.",
+    "tags": [
+      "Escritura",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-97",
+    "title": "freeCodeCamp: Fotografía",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre fotografía dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografía.",
+    "tags": [
+      "Fotografía",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-98",
+    "title": "freeCodeCamp: Música",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre música dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-99",
+    "title": "freeCodeCamp: Desarrollo web",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre desarrollo web dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar desarrollo web.",
+    "tags": [
+      "Desarrollo web",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "course-100",
+    "title": "freeCodeCamp: Emprendimiento",
+    "type": "Cursos",
+    "category": "cursos",
+    "description": "Recurso recomendado sobre emprendimiento dentro de freeCodeCamp.",
+    "meta": "Fuente legal y pública. Ideal para explorar emprendimiento.",
+    "tags": [
+      "Emprendimiento",
+      "freeCodeCamp",
+      "Código",
+      "Práctica"
+    ],
+    "url": "https://www.freecodecamp.org/",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80"
+  }
+]

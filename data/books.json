@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "book-1",
+    "title": "Project Gutenberg: Literatura clásica",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre literatura clásica dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar literatura clásica.",
+    "tags": [
+      "Literatura clásica",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-2",
+    "title": "Project Gutenberg: Filosofía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre filosofía dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar filosofía.",
+    "tags": [
+      "Filosofía",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-3",
+    "title": "Project Gutenberg: Historia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre historia dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-4",
+    "title": "Project Gutenberg: Ciencia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ciencia dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-5",
+    "title": "Project Gutenberg: Tecnología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre tecnología dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-6",
+    "title": "Project Gutenberg: Matemáticas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre matemáticas dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-7",
+    "title": "Project Gutenberg: Arte",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre arte dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-8",
+    "title": "Project Gutenberg: Psicología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre psicología dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-9",
+    "title": "Project Gutenberg: Economía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre economía dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar economía.",
+    "tags": [
+      "Economía",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-10",
+    "title": "Project Gutenberg: Idiomas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre idiomas dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-11",
+    "title": "Project Gutenberg: Programación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre programación dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-12",
+    "title": "Project Gutenberg: Biografías",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre biografías dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar biografías.",
+    "tags": [
+      "Biografías",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-13",
+    "title": "Project Gutenberg: Poesía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre poesía dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar poesía.",
+    "tags": [
+      "Poesía",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-14",
+    "title": "Project Gutenberg: Ensayo",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ensayo dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar ensayo.",
+    "tags": [
+      "Ensayo",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-15",
+    "title": "Project Gutenberg: Educación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre educación dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-16",
+    "title": "Project Gutenberg: Salud",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre salud dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-17",
+    "title": "Project Gutenberg: Astronomía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre astronomía dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar astronomía.",
+    "tags": [
+      "Astronomía",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-18",
+    "title": "Project Gutenberg: Diseño",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre diseño dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño.",
+    "tags": [
+      "Diseño",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-19",
+    "title": "Project Gutenberg: Música",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre música dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-20",
+    "title": "Project Gutenberg: Derecho",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre derecho dentro de Project Gutenberg.",
+    "meta": "Fuente legal y pública. Ideal para explorar derecho.",
+    "tags": [
+      "Derecho",
+      "Project Gutenberg",
+      "Dominio público",
+      "ePub"
+    ],
+    "url": "https://www.gutenberg.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-21",
+    "title": "Open Library: Literatura clásica",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre literatura clásica dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar literatura clásica.",
+    "tags": [
+      "Literatura clásica",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-22",
+    "title": "Open Library: Filosofía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre filosofía dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar filosofía.",
+    "tags": [
+      "Filosofía",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-23",
+    "title": "Open Library: Historia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre historia dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-24",
+    "title": "Open Library: Ciencia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ciencia dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-25",
+    "title": "Open Library: Tecnología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre tecnología dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-26",
+    "title": "Open Library: Matemáticas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre matemáticas dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-27",
+    "title": "Open Library: Arte",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre arte dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-28",
+    "title": "Open Library: Psicología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre psicología dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-29",
+    "title": "Open Library: Economía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre economía dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar economía.",
+    "tags": [
+      "Economía",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-30",
+    "title": "Open Library: Idiomas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre idiomas dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-31",
+    "title": "Open Library: Programación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre programación dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-32",
+    "title": "Open Library: Biografías",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre biografías dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar biografías.",
+    "tags": [
+      "Biografías",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-33",
+    "title": "Open Library: Poesía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre poesía dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar poesía.",
+    "tags": [
+      "Poesía",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-34",
+    "title": "Open Library: Ensayo",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ensayo dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar ensayo.",
+    "tags": [
+      "Ensayo",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-35",
+    "title": "Open Library: Educación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre educación dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-36",
+    "title": "Open Library: Salud",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre salud dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-37",
+    "title": "Open Library: Astronomía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre astronomía dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar astronomía.",
+    "tags": [
+      "Astronomía",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-38",
+    "title": "Open Library: Diseño",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre diseño dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño.",
+    "tags": [
+      "Diseño",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-39",
+    "title": "Open Library: Música",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre música dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-40",
+    "title": "Open Library: Derecho",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre derecho dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar derecho.",
+    "tags": [
+      "Derecho",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-41",
+    "title": "Wikibooks: Literatura clásica",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre literatura clásica dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar literatura clásica.",
+    "tags": [
+      "Literatura clásica",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-42",
+    "title": "Wikibooks: Filosofía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre filosofía dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar filosofía.",
+    "tags": [
+      "Filosofía",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-43",
+    "title": "Wikibooks: Historia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre historia dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-44",
+    "title": "Wikibooks: Ciencia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ciencia dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-45",
+    "title": "Wikibooks: Tecnología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre tecnología dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-46",
+    "title": "Wikibooks: Matemáticas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre matemáticas dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-47",
+    "title": "Wikibooks: Arte",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre arte dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-48",
+    "title": "Wikibooks: Psicología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre psicología dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-49",
+    "title": "Wikibooks: Economía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre economía dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar economía.",
+    "tags": [
+      "Economía",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-50",
+    "title": "Wikibooks: Idiomas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre idiomas dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-51",
+    "title": "Wikibooks: Programación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre programación dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-52",
+    "title": "Wikibooks: Biografías",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre biografías dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar biografías.",
+    "tags": [
+      "Biografías",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-53",
+    "title": "Wikibooks: Poesía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre poesía dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar poesía.",
+    "tags": [
+      "Poesía",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-54",
+    "title": "Wikibooks: Ensayo",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ensayo dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar ensayo.",
+    "tags": [
+      "Ensayo",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-55",
+    "title": "Wikibooks: Educación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre educación dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-56",
+    "title": "Wikibooks: Salud",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre salud dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-57",
+    "title": "Wikibooks: Astronomía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre astronomía dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar astronomía.",
+    "tags": [
+      "Astronomía",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-58",
+    "title": "Wikibooks: Diseño",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre diseño dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño.",
+    "tags": [
+      "Diseño",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-59",
+    "title": "Wikibooks: Música",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre música dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-60",
+    "title": "Wikibooks: Derecho",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre derecho dentro de Wikibooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar derecho.",
+    "tags": [
+      "Derecho",
+      "Wikibooks",
+      "Manual",
+      "Gratis"
+    ],
+    "url": "https://www.wikibooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-61",
+    "title": "Standard Ebooks: Literatura clásica",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre literatura clásica dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar literatura clásica.",
+    "tags": [
+      "Literatura clásica",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-62",
+    "title": "Standard Ebooks: Filosofía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre filosofía dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar filosofía.",
+    "tags": [
+      "Filosofía",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-63",
+    "title": "Standard Ebooks: Historia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre historia dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-64",
+    "title": "Standard Ebooks: Ciencia",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ciencia dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-65",
+    "title": "Standard Ebooks: Tecnología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre tecnología dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar tecnología.",
+    "tags": [
+      "Tecnología",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-66",
+    "title": "Standard Ebooks: Matemáticas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre matemáticas dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar matemáticas.",
+    "tags": [
+      "Matemáticas",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-67",
+    "title": "Standard Ebooks: Arte",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre arte dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-68",
+    "title": "Standard Ebooks: Psicología",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre psicología dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar psicología.",
+    "tags": [
+      "Psicología",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-69",
+    "title": "Standard Ebooks: Economía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre economía dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar economía.",
+    "tags": [
+      "Economía",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-70",
+    "title": "Standard Ebooks: Idiomas",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre idiomas dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar idiomas.",
+    "tags": [
+      "Idiomas",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-71",
+    "title": "Standard Ebooks: Programación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre programación dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar programación.",
+    "tags": [
+      "Programación",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-72",
+    "title": "Standard Ebooks: Biografías",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre biografías dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar biografías.",
+    "tags": [
+      "Biografías",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-73",
+    "title": "Standard Ebooks: Poesía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre poesía dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar poesía.",
+    "tags": [
+      "Poesía",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-74",
+    "title": "Standard Ebooks: Ensayo",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre ensayo dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar ensayo.",
+    "tags": [
+      "Ensayo",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-75",
+    "title": "Standard Ebooks: Educación",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre educación dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-76",
+    "title": "Standard Ebooks: Salud",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre salud dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar salud.",
+    "tags": [
+      "Salud",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-77",
+    "title": "Standard Ebooks: Astronomía",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre astronomía dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar astronomía.",
+    "tags": [
+      "Astronomía",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-78",
+    "title": "Standard Ebooks: Diseño",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre diseño dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar diseño.",
+    "tags": [
+      "Diseño",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-79",
+    "title": "Standard Ebooks: Música",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre música dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "book-80",
+    "title": "Standard Ebooks: Derecho",
+    "type": "Libros",
+    "category": "libros",
+    "description": "Recurso recomendado sobre derecho dentro de Standard Ebooks.",
+    "meta": "Fuente legal y pública. Ideal para explorar derecho.",
+    "tags": [
+      "Derecho",
+      "Standard Ebooks",
+      "Clásicos",
+      "Calidad"
+    ],
+    "url": "https://standardebooks.org/",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80"
+  }
+]

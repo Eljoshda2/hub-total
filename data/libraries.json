@@ -1,0 +1,962 @@
+[
+  {
+    "id": "lib-1",
+    "title": "Internet Archive: Libros",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre libros dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar libros.",
+    "tags": [
+      "Libros",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-2",
+    "title": "Internet Archive: Audio",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre audio dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar audio.",
+    "tags": [
+      "Audio",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-3",
+    "title": "Internet Archive: Video",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre video dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar video.",
+    "tags": [
+      "Video",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-4",
+    "title": "Internet Archive: Software",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre software dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar software.",
+    "tags": [
+      "Software",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-5",
+    "title": "Internet Archive: Investigación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre investigación dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar investigación.",
+    "tags": [
+      "Investigación",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-6",
+    "title": "Internet Archive: Historia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre historia dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-7",
+    "title": "Internet Archive: Mapas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre mapas dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar mapas.",
+    "tags": [
+      "Mapas",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-8",
+    "title": "Internet Archive: Arte",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre arte dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-9",
+    "title": "Internet Archive: Educación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre educación dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-10",
+    "title": "Internet Archive: Revistas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre revistas dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar revistas.",
+    "tags": [
+      "Revistas",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-11",
+    "title": "Internet Archive: Documentos",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre documentos dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar documentos.",
+    "tags": [
+      "Documentos",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-12",
+    "title": "Internet Archive: Fotografías",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre fotografías dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografías.",
+    "tags": [
+      "Fotografías",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-13",
+    "title": "Internet Archive: Música",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre música dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-14",
+    "title": "Internet Archive: Ciencia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre ciencia dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-15",
+    "title": "Internet Archive: Colecciones",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre colecciones dentro de Internet Archive.",
+    "meta": "Fuente legal y pública. Ideal para explorar colecciones.",
+    "tags": [
+      "Colecciones",
+      "Internet Archive",
+      "Archivo",
+      "Público"
+    ],
+    "url": "https://archive.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-16",
+    "title": "Open Library: Libros",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre libros dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar libros.",
+    "tags": [
+      "Libros",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-17",
+    "title": "Open Library: Audio",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre audio dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar audio.",
+    "tags": [
+      "Audio",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-18",
+    "title": "Open Library: Video",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre video dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar video.",
+    "tags": [
+      "Video",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-19",
+    "title": "Open Library: Software",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre software dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar software.",
+    "tags": [
+      "Software",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-20",
+    "title": "Open Library: Investigación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre investigación dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar investigación.",
+    "tags": [
+      "Investigación",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-21",
+    "title": "Open Library: Historia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre historia dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-22",
+    "title": "Open Library: Mapas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre mapas dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar mapas.",
+    "tags": [
+      "Mapas",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-23",
+    "title": "Open Library: Arte",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre arte dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-24",
+    "title": "Open Library: Educación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre educación dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-25",
+    "title": "Open Library: Revistas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre revistas dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar revistas.",
+    "tags": [
+      "Revistas",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-26",
+    "title": "Open Library: Documentos",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre documentos dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar documentos.",
+    "tags": [
+      "Documentos",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-27",
+    "title": "Open Library: Fotografías",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre fotografías dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografías.",
+    "tags": [
+      "Fotografías",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-28",
+    "title": "Open Library: Música",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre música dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-29",
+    "title": "Open Library: Ciencia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre ciencia dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-30",
+    "title": "Open Library: Colecciones",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre colecciones dentro de Open Library.",
+    "meta": "Fuente legal y pública. Ideal para explorar colecciones.",
+    "tags": [
+      "Colecciones",
+      "Open Library",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "url": "https://openlibrary.org/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-31",
+    "title": "Europeana: Libros",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre libros dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar libros.",
+    "tags": [
+      "Libros",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-32",
+    "title": "Europeana: Audio",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre audio dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar audio.",
+    "tags": [
+      "Audio",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-33",
+    "title": "Europeana: Video",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre video dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar video.",
+    "tags": [
+      "Video",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-34",
+    "title": "Europeana: Software",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre software dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar software.",
+    "tags": [
+      "Software",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-35",
+    "title": "Europeana: Investigación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre investigación dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar investigación.",
+    "tags": [
+      "Investigación",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-36",
+    "title": "Europeana: Historia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre historia dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-37",
+    "title": "Europeana: Mapas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre mapas dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar mapas.",
+    "tags": [
+      "Mapas",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-38",
+    "title": "Europeana: Arte",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre arte dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-39",
+    "title": "Europeana: Educación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre educación dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-40",
+    "title": "Europeana: Revistas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre revistas dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar revistas.",
+    "tags": [
+      "Revistas",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-41",
+    "title": "Europeana: Documentos",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre documentos dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar documentos.",
+    "tags": [
+      "Documentos",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-42",
+    "title": "Europeana: Fotografías",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre fotografías dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografías.",
+    "tags": [
+      "Fotografías",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-43",
+    "title": "Europeana: Música",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre música dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-44",
+    "title": "Europeana: Ciencia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre ciencia dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-45",
+    "title": "Europeana: Colecciones",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre colecciones dentro de Europeana.",
+    "meta": "Fuente legal y pública. Ideal para explorar colecciones.",
+    "tags": [
+      "Colecciones",
+      "Europeana",
+      "Cultura",
+      "Museos"
+    ],
+    "url": "https://www.europeana.eu/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-46",
+    "title": "Digital Public Library of America: Libros",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre libros dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar libros.",
+    "tags": [
+      "Libros",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-47",
+    "title": "Digital Public Library of America: Audio",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre audio dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar audio.",
+    "tags": [
+      "Audio",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-48",
+    "title": "Digital Public Library of America: Video",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre video dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar video.",
+    "tags": [
+      "Video",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-49",
+    "title": "Digital Public Library of America: Software",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre software dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar software.",
+    "tags": [
+      "Software",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-50",
+    "title": "Digital Public Library of America: Investigación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre investigación dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar investigación.",
+    "tags": [
+      "Investigación",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-51",
+    "title": "Digital Public Library of America: Historia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre historia dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar historia.",
+    "tags": [
+      "Historia",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-52",
+    "title": "Digital Public Library of America: Mapas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre mapas dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar mapas.",
+    "tags": [
+      "Mapas",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-53",
+    "title": "Digital Public Library of America: Arte",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre arte dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar arte.",
+    "tags": [
+      "Arte",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-54",
+    "title": "Digital Public Library of America: Educación",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre educación dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar educación.",
+    "tags": [
+      "Educación",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-55",
+    "title": "Digital Public Library of America: Revistas",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre revistas dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar revistas.",
+    "tags": [
+      "Revistas",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-56",
+    "title": "Digital Public Library of America: Documentos",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre documentos dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar documentos.",
+    "tags": [
+      "Documentos",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-57",
+    "title": "Digital Public Library of America: Fotografías",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre fotografías dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar fotografías.",
+    "tags": [
+      "Fotografías",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-58",
+    "title": "Digital Public Library of America: Música",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre música dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar música.",
+    "tags": [
+      "Música",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-59",
+    "title": "Digital Public Library of America: Ciencia",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre ciencia dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar ciencia.",
+    "tags": [
+      "Ciencia",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lib-60",
+    "title": "Digital Public Library of America: Colecciones",
+    "type": "Biblioteca",
+    "category": "biblioteca",
+    "description": "Recurso recomendado sobre colecciones dentro de Digital Public Library of America.",
+    "meta": "Fuente legal y pública. Ideal para explorar colecciones.",
+    "tags": [
+      "Colecciones",
+      "Digital Public Library of America",
+      "Biblioteca",
+      "USA"
+    ],
+    "url": "https://dp.la/",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80"
+  }
+]
