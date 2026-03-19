@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hub Total</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div>
+          <p class="brand-kicker">Hub Total</p>
+          <h1>Tu centro de contenido</h1>
+          <p class="brand-copy">Juegos gratis, libros, videos, cursos, podcasts y más, desde una sola web.</p>
+        </div>
+
+        <nav class="quick-filters" id="quickFilters"></nav>
+      </aside>
+
+      <main class="main">
+        <section class="hero">
+          <div>
+            <p class="mini">Web independiente lista para GitHub Pages</p>
+            <h2>Explora por tema, tipo o formato</h2>
+            <p>Todo lo que ves aquí apunta a contenido gratuito y legal.</p>
+          </div>
+          <div class="controls">
+            <input id="searchInput" type="text" placeholder="Buscar juegos, libros, videos..." />
+            <select id="typeFilter"><option value="Todos">Todos los tipos</option></select>
+            <button id="favoritesToggle" class="secondary">Ver guardados</button>
+          </div>
+        </section>
+
+        <section class="stats">
+          <div class="stat-card"><span id="resultsCount">0</span><small>resultados</small></div>
+          <div class="stat-card"><span>1</span><small>web unificada</small></div>
+          <div class="stat-card"><span>100%</span><small>lista para publicar</small></div>
+        </section>
+
+        <section id="contentGrid" class="grid"></section>
+      </main>
+    </div>
+
+    <template id="cardTemplate">
+      <article class="card">
+        <img class="card-image" alt="" />
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge type"></span>
+            <button class="favorite-btn" title="Guardar">☆</button>
+          </div>
+          <h3 class="title"></h3>
+          <p class="description"></p>
+          <p class="meta"></p>
+          <div class="tags"></div>
+          <div class="card-actions">
+            <a class="open-btn" target="_blank" rel="noopener noreferrer">Abrir</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
